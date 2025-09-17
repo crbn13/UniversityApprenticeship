@@ -1,2 +1,2 @@
 # UniversityApprenticeship
-Respository to document university study, logging 
+Respository to document university study, logging academic related work experience
