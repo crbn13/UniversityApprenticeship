@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/KSBs.md",
+                "file": "Uni/Portfolio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KSBs"
+              "title": "Portfolio"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni/KSBs.md",
+                "file": "Uni/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KSBs"
+              "title": "Backlinks for Portfolio"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni/KSBs.md",
+                "file": "Uni/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KSBs"
+              "title": "Outgoing links from Portfolio"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni/KSBs.md",
+                "file": "Uni/Portfolio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KSBs"
+              "title": "Outline of Portfolio"
             }
           },
           {
@@ -205,13 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41ba4b4710e335fb",
+  "active": "fb24dabd7f5b37bb",
   "lastOpenFiles": [
     "Experience_Logging/Info.md",
+    "Uni/Portfolio.md",
     "Uni/KSBs.md",
     "Uni/EPA.md",
-    "Uni/Portfolio.md",
     "Uni/Assessments.md",
+    "Uni/Modules/Problem Solving through Programming.md",
+    "Uni/Modules/Networks and Security.md",
+    "Uni/Modules",
     "Todo.md",
     "README.md",
     "Experience_Logging",
