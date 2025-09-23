@@ -11,13 +11,32 @@
             "id": "f913dfb7f0eb99c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Modules/Programming.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Programming"
+            }
+          },
+          {
+            "id": "0404f70066487cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Modules/Introduction To Programming COM411.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction To Programming COM411"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +195,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f913dfb7f0eb99c2",
+  "active": "0404f70066487cfa",
   "lastOpenFiles": [
-    "Uni/Modules/Networks/Intermediary devices.md",
+    "Uni/Modules/Introduction_To_Programming/COM411 ASSESSMENT BRIEF AE2 2025-26.pdf",
+    "Uni/Modules/Introduction_To_Programming",
     "Uni/Modules/Networks and Security.md",
+    "Uni/Modules/Programming.md",
+    "Uni/Modules/Introduction To Programming COM411.md",
+    "Todo.md",
+    "README.md",
+    "Uni/Portfolio.md",
+    "Uni/KSBs.md",
+    "Uni/EPA.md",
+    "Uni/Assessments.md",
+    "Experience_Logging/Info.md",
+    "Uni/Modules/Networks/Intermediary devices.md",
     "Uni/Modules/Networks/Network Media.md",
     "CCNA.md",
     "Uni/Modules/Networks/Network Security.md",
@@ -194,15 +224,7 @@
     "Uni/Modules/Networks/Network components.md",
     "Uni/Modules/Networks/Fibre Optics.md",
     "Uni/Modules/Networks",
-    "Uni/Portfolio.md",
-    "Experience_Logging/Info.md",
-    "Uni/KSBs.md",
-    "Uni/EPA.md",
-    "Uni/Assessments.md",
-    "Uni/Modules/Problem Solving through Programming.md",
     "Uni/Modules",
-    "Todo.md",
-    "README.md",
     "Experience_Logging",
     "Uni",
     "Study"
