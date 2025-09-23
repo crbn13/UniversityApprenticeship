@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Media.md",
+                "file": "Uni/Modules/Networks/Network Media.md",
                 "mode": "source",
                 "source": false
               },
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WAN.md",
+                "file": "Uni/Modules/Networks/Intermediary devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WAN"
+              "title": "Intermediary devices"
             }
           },
           {
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intermediary devices.md",
+                "file": "Uni/Modules/Networks/Intermediary devices.md",
                 "mode": "source",
                 "source": false
               },
@@ -233,17 +233,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eafea4350a74cff6",
+  "active": "41ba4b4710e335fb",
   "lastOpenFiles": [
-    "Common Networks.md",
-    "WAN.md",
+    "Uni/Modules/Networks/Network Media.md",
+    "Uni/Modules/Networks/Topology Diagrams.md",
     "Uni/Modules/Networks and Security.md",
-    "Topology Diagrams.md",
-    "Network Topologies.md",
+    "Uni/Modules/Networks/WAN.md",
+    "Uni/Modules/Networks/Common Networks.md",
+    "Uni/Modules/Networks/Network Topologies.md",
     "Uni/Modules/Networks/Network components.md",
-    "Network Media.md",
-    "Fibre Optics.md",
-    "Intermediary devices.md",
+    "Uni/Modules/Networks/Fibre Optics.md",
+    "Uni/Modules/Networks/Intermediary devices.md",
     "Uni/Modules/Networks",
     "Uni/Portfolio.md",
     "Experience_Logging/Info.md",
