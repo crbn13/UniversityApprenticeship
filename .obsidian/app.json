@@ -2,5 +2,6 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "notes_pictures/pictures"
 }

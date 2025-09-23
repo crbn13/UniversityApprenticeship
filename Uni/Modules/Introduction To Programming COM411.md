@@ -9,5 +9,5 @@
 ### AE2
 - Coursework
 - Due on Friday 9th January 2026
-- Theres also an accompanying CSV file but i dont have it yet
+- There's also an accompanying CSV file but i dont have it yet
 - ![[COM411 ASSESSMENT BRIEF AE2 2025-26.pdf]]

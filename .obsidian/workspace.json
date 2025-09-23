@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Modules/Introduction To Programming COM411.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction To Programming COM411"
+              "title": "Todo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,18 +191,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0404f70066487cfa",
+  "active": "f913dfb7f0eb99c2",
   "lastOpenFiles": [
+    "Todo.md",
+    "submodule_pull_changes.sh",
+    "submodule_pull_changes.shd",
+    "notes_pictures/pictures/will_it_converge.png",
+    "notes_pictures/pictures/wave bending.png",
+    "notes_pictures/pictures/virtual_lens_focusing.png",
+    "notes_pictures/pictures/vectors_before_you_start_qs.jpg",
+    "notes_pictures/pictures/vectors-worked_example_16.4.png",
+    "notes_pictures/pictures/vectors before you start qs.png",
+    "notes_pictures/pictures/trapezium_rule_integration_exampleq.png",
+    "notes_pictures/pictures/suvat_equations.png",
+    "notes_pictures/pictures/suvat.png",
+    "notes_pictures/pictures/spectroscopic_binary_star_systems.png",
+    "notes_pictures/pictures/Fixed point iteration.pdf",
+    "notes_pictures/pictures",
+    "notes_pictures/README.md",
+    "notes_pictures",
+    "README.md",
+    "Uni/Modules/Introduction To Programming COM411.md",
     "Uni/Modules/Introduction_To_Programming/COM411 ASSESSMENT BRIEF AE2 2025-26.pdf",
     "Uni/Modules/Introduction_To_Programming",
     "Uni/Modules/Networks and Security.md",
     "Uni/Modules/Programming.md",
-    "Uni/Modules/Introduction To Programming COM411.md",
-    "Todo.md",
-    "README.md",
     "Uni/Portfolio.md",
     "Uni/KSBs.md",
     "Uni/EPA.md",
@@ -224,9 +240,6 @@
     "Uni/Modules/Networks/Network components.md",
     "Uni/Modules/Networks/Fibre Optics.md",
     "Uni/Modules/Networks",
-    "Uni/Modules",
-    "Experience_Logging",
-    "Uni",
-    "Study"
+    "Uni/Modules"
   ]
 }
