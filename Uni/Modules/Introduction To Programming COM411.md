@@ -4,7 +4,7 @@
 ### AE1 
 - Timed exam
 - 50% of module
-- Happens on week 11 (december 1st-5th)
+- Happens on week 11 (December 1st-5th)
 
 ### AE2
 - Coursework
