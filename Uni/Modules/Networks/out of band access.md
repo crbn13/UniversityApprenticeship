@@ -1,0 +1,1 @@
+Accessing a networking device through a *dedicated management channel* that is used for device maintenance purposes only.

@@ -1,5 +1,6 @@
 A proprietary [[CLI]] operating system for networking
 
+## [[Cisco IOS Access methods]]
 
 ## Terminal modes
 
@@ -26,17 +27,5 @@ Interface Configuration Mode
 - Like a switch, port or router interface
 
 
-## Commands
+## [[Cisco IOS Commands]]
 
-
-```configure terminal``` configuration mode
-```enable``` root terminal logon
-
-```line console <console num>``` Line configuration mode, default console num is 0 ?
-```password``` when console is selected use password command to set the password
-
-```show``` used to print "things" to the terminal 
-```show startup-config``` or ```show running-config```
-
-```ping <ip>``` 
-```traceroute <ip>```
