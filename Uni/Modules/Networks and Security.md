@@ -16,3 +16,6 @@ Tests every 2 weeks?
 
 [[Cisco IOS]]
 [[Remote Terminal Protocols]]
+[[Network Addresses]]
+
+[[ipv4]]
