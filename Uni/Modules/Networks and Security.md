@@ -9,6 +9,7 @@ Tests every 2 weeks?
 
 ![[CCNAv7 1st Course IOS Commands.docx]]
 
+[[Network Protocols]]
 
 [[Internet]]
 [[Extranet]]
@@ -19,3 +20,5 @@ Tests every 2 weeks?
 [[Network Addresses]]
 
 [[ipv4]]
+[[ipv6]]
+
