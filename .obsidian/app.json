@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "notes_pictures/pictures"
+  "attachmentFolderPath": "notes_pictures/pictures",
+  "showLineNumber": true,
+  "tabSize": 4
 }
