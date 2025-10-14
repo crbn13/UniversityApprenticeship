@@ -1,6 +1,6 @@
 
 # Layer reference model
-1. Physical
+1. [[Physical Networking Layer]]
 	1. The medium which data is communicated/sent
 2. Data Link
 	1. Protocols for interfacing with physical communicators

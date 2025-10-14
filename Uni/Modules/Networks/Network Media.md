@@ -14,4 +14,5 @@ These are all apart of [[Networking Layer 1]] as they physically transmit the si
 	- durable
 
 # Wireless 
-- WIFI 
+- [[Wireless Media]]
+- 

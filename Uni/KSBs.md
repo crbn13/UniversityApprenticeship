@@ -1,4 +1,4 @@
-Knowledge Skills and Behaveours
+Knowledge Skills and Behaviours
 
 ### Knowledge, Skills & Behaviours (KSBs)
 
