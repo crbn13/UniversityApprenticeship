@@ -6,10 +6,12 @@
 	1. Protocols for interfacing with physical communicators
 3. [[Network Layer]]
 	1. IP address layer
+	2. Routing of 
 4. [[Networking Transport Layer]]
 	1. Packet splitting, packet numbering, all data required to reconstruct packets back into lump piece of data 
 	2. Session
 5. [[Session Layer]]
 6. [[Presentation Layer]] 
 7. [[Application layer]] 
-2
+
+Each layers data structure is its [[Protocol Data Units (PDU)]]

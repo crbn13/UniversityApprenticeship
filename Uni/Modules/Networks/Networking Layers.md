@@ -2,8 +2,13 @@
 There are 7 layers of the [[Open systems interconnection (OSI))]] communication model
 There are 4? layers of the [[TCP IP stack]]
 
+Each layers associated data structure is called [[Protocol Data Units (PDU)]]
+
 
 ## Layers
+[[Data Link layer]]
+[[Network Layer]]
+
 [[Networking Application Layer]]
 [[Networking Transport Layer]]
 [[Networking Internet Layer]]
