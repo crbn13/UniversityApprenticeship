@@ -10,8 +10,10 @@
 4. [[Networking Transport Layer]]
 	1. Packet splitting, packet numbering, all data required to reconstruct packets back into lump piece of data 
 	2. Session
-5. [[Session Layer]]
+5. [[Session Layer]] 
+	1. OSI-only layer
 6. [[Presentation Layer]] 
+	1. OSI-only layer
 7. [[Application layer]] 
 
 Each layers data structure is its [[Protocol Data Units (PDU)]]
