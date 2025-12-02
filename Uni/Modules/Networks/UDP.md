@@ -13,7 +13,7 @@ best effor protocol that has no connection
 - Simple request and reply
 - Aplications that handle reliability themselves 
 
-- DHCP
+- [[DHCP]]
 - DNS
-- SNMP
+- SNMP (Simple Network Management Protocol)
 
