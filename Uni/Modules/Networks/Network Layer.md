@@ -3,7 +3,6 @@ created: <% tp.file.creation_date() %>
 tags:
 refactor: false
 ---
-666
 
 
 This layer is responsible for :

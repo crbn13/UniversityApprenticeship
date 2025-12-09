@@ -1,10 +1,10 @@
-
-
 The layer with TCP and UDP in it 
+
+Transport for TCP
 
 ### What is it for?
 
-breaking up large bits of data insto pakcets
+breaking up large data into segments ( packets are the same size as frames as they are based on the largest frame size)
 
 Managing different applications
 

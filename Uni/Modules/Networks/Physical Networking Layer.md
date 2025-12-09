@@ -9,4 +9,4 @@ Types
 ## Bandwidth Terminology
 Bandwidth is a measure of the capacity of a medium to carry data
 - Throughput
-	- How many bits per time period that can be transmitted over the medium
+		- How many bits per time period that can be transmitted over the medium
