@@ -5,5 +5,4 @@ Repository to document university study, logging academic related work experienc
 
 [[Modules]]
 
-[[Networks and Security]]
 [[]]
