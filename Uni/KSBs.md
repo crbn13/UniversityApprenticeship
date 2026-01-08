@@ -49,16 +49,16 @@ Knowledge Skills and Behaviours
 
 #### [](https://martinsolent.github.io/bdats_2/docs/KSB.html#behaviours---core-to-all-pathways)Behaviours - Core to ALL Pathways
 
-|KSB|Description|
-|---|---|
-|**B1:**|Has a strong work ethic and commitment in order to meet the standards required.|
-|**B2:**|Reliable, objective and capable of both independent and team working.|
-|**B3:**|Acts with integrity with respect to ethical, legal and regulatory requirements ensuring the protection of personal data, safety and security.|
-|**B4:**|Commits to continuous professional development; maintaining their knowledge and skills in relation to developments in digital and technology solutions that influence their work.|
-|**B5:**|Interacts professionally with people from technical and non-technical backgrounds. Presents data and conclusions in an evidently truthful, concise and appropriate manner.|
-|**B6:**|Participates in and shares best practice in their organisation, and the wider community for aspects relevant to digital and technology solutions.|
-|**B7:**|Maintains awareness of trends and innovations in the subject area, utilising a range of academic literature, online sources, community interaction, conference attendance and other methods which can deliver business value.|
-|**B8:**|Champions diversity and inclusion in their work ensuring that digital technology solutions are accessible.|
+| KSB     | Description                                                                                                                                                                                                                   |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **B1:** | Has a strong work ethic and commitment in order to meet the standards required.                                                                                                                                               |
+| **B2:** | Reliable, objective and capable of both independent and team working.                                                                                                                                                         |
+| **B3:** | Acts with integrity with respect to ethical, legal and regulatory requirements ensuring the protection of personal data, safety and security.                                                                                 |
+| **B4:** | Commits to continuous professional development; maintaining their knowledge and skills in relation to developments in digital and technology solutions that influence their work.                                             |
+| **B5:** | Interacts professionally with people from technical and non-technical backgrounds. Presents data and conclusions in an evidently truthful, concise and appropriate manner.                                                    |
+| **B6:** | Participates in and shares best practice in their organisation, and the wider community for aspects relevant to digital and technology solutions.                                                                             |
+| **B7:** | Maintains awareness of trends and innovations in the subject area, utilising a range of academic literature, online sources, community interaction, conference attendance and other methods which can deliver business value. |
+| **B8:** | Champions diversity and inclusion in their work ensuring that digital technology solutions are accessible.                                                                                                                    |
 
 #### [](https://martinsolent.github.io/bdats_2/docs/KSB.html#software-engineer---knowledge)Software Engineer - Knowledge
 
