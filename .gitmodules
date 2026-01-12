@@ -1,3 +1,6 @@
 [submodule "notes_pictures"]
 	path = notes_pictures
 	url = ssh://git@bingus1234.hopto.org:5473/home/git/notes_pictures
+[submodule "ApprenticeshipDocuments"]
+	path = ApprenticeshipDocuments
+	url = https://github.com/crbn13/ApprenticeshipDocuments.git
